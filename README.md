@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pranavmtn
-- 👀 I’m interested in WordPress with Some JS
-- 🌱 I’m currently learning ...React ,Frontity exactly
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m presently involved in WordPress with some New Tech
+- 🌱 Love Plants,travelling and coffey
 - 📫 How to reach me ... [pranavmtn](https://wordpress.org/support/users/pranavmtn/)
 
 <!---

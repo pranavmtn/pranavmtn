@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Pranav MT👋
 
 **Software Engineer (7 yrs) building production AI agents** · Client-facing delivery for US/UK customers
 

@@ -34,4 +34,4 @@ Looking for **Forward Deployed Engineer / Applied AI Engineer** roles.
 
 ### 📫 Contact
 
-[LinkedIn](https://linkedin.com/in/your-profile) · your.email@example.com
+[LinkedIn](https://linkedin.com/in/pranavmtn · lyractk@outlook.com
